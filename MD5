@@ -1,0 +1,12 @@
+8f7ecf651cd43b2ce9ed84904a2cfdbf *DESCRIPTION
+0869480fe967879324781df6986e59f2 *LICENSE
+506c7388854655c016e6e58384c19e29 *NAMESPACE
+78ea180b610685f203261e70fe9dca9d *R/gstudy.R
+69ec306fa9d9f87807a7748a57e2484a *README.md
+bb6e399d71d63a9b6663e7caf7db159e *inst/extdata/crossed_scores.csv
+53ded66bfe34c610b150ccddc5dd533e *inst/extdata/nested_scores.csv
+1c2fc774f60414c7084ac5d8788167e2 *man/dstudy_nested_ip.Rd
+238a24200f86a409d08d454ff288ed9d *man/dstudy_pxi.Rd
+ff72f0afd7f39722d09c5f7372ff5f75 *man/gstudy_nested_ip.Rd
+2903acf4660366810ae0e54f567d2afd *man/gstudy_pxi.Rd
+4770e4093e7f920d2854a76a792ba94e *man/gtheoryr-package.Rd

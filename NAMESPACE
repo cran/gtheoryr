@@ -1,0 +1,7 @@
+export(dstudy_pxi)
+export(dstudy_nested_ip)
+export(gstudy_pxi)
+export(gstudy_nested_ip)
+importFrom(stats,xtabs)
+S3method(print,dstudy_gtheoryr)
+S3method(print,gstudy_gtheoryr)
