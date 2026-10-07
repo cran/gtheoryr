@@ -1,7 +1,9 @@
 Package: gtheoryr
 Type: Package
 Title: Simple Generalizability Theory for Crossed and Nested Designs
-Version: 0.1.0
+Version: 0.2.0
+Author: Ujjwal Tyagi [aut, cre]
+Maintainer: Ujjwal Tyagi <ujjwaltyagiii@gmail.com>
 Authors@R: c(
     person(
       given = "Ujjwal",
@@ -12,15 +14,19 @@ Authors@R: c(
   )
 Description: Provides a small, beginner-friendly interface for estimating
     variance components in simple generalizability theory designs. The package
-    currently supports a fully crossed persons-by-items design and a simple
-    items-within-person nested design, along with design-study summaries for
-    relative and absolute decisions.
+    currently supports a fully crossed persons-by-items design, generic
+    balanced crossed designs with one or more additional facets such as raters,
+    occasions, or forms, and a simple items-within-person nested design, along
+    with design-study summaries for relative and absolute decisions. Includes
+    data diagnostics, measurement error intervals, design comparison and cost
+    planning, sensitivity analysis, Gaussian simulation and parametric bootstrap
+    uncertainty estimates for balanced crossed designs.
 License: MIT + file LICENSE
 Encoding: UTF-8
-RoxygenNote: 7.3.2
+RoxygenNote: 7.3.3
 NeedsCompilation: no
-Packaged: 2026-03-15 10:16:45 UTC; Ujjwa
-Author: Ujjwal Tyagi [aut, cre]
-Maintainer: Ujjwal Tyagi <ujjwaltyagiii@gmail.com>
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Packaged: 2026-10-07 02:48:37 UTC; Ujjwa
 Repository: CRAN
-Date/Publication: 2026-03-19 13:50:10 UTC
+Date/Publication: 2026-10-07 05:30:02 UTC
